@@ -17,7 +17,7 @@ As a check on the accuracy of my code in the refactored analysis, it did derive 
 <img width="286" alt="VBA_Challenge_2018_Table" src="https://user-images.githubusercontent.com/96352625/149645197-551bc127-5982-4f8f-b3cc-652ce6b43023.png">
 
 ## Summary
-### Pros & Cons of Refactoring
+### Advantages & Disadvantages of Refactoring
 Refactoring code is an important part of the coding process. The code runs functionally the same but it should make it more readable and efficient. In this case, more efficient when it comes to the future of adding more stocks and years to the existing 12 stocks and 2 years I was given by Steve. If a code is refactored to run more efficiently, it will have a faster run time and return analysis faster. This coule be beneficial if the speed of the code is important to production and the usability of the code to others. However, refactoring is not all beneficial. It could introduce more bugs into the code and be difficult to understand if the reader did not have previous knowledge of the original code. Additionally, if refactoring to make things run more efficiently results in a minimal decrease in run time, but it took a lot of man hours to refactor, it may not serve as benficial. This should be considered when investing time into refactoring existing code. 
 
 ### Conclusion
