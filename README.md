@@ -1,2 +1,2 @@
 # stock-analysis.
-Challenge 2 walk through
+Challenge 2: VBA of Wall Street
