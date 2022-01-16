@@ -17,4 +17,4 @@ As a check on the accuracy of my code in the refactored analysis, it did derive 
 <img width="286" alt="VBA_Challenge_2018_Table" src="https://user-images.githubusercontent.com/96352625/149645197-551bc127-5982-4f8f-b3cc-652ce6b43023.png">
 
 ## Summary
-
+In summation, refactoring the code did not decrease run times while analyzing the stock data. However, refactoring is an important part of the coding process. The code runs functionally the same but it should make it more readable when adding data beyond the given 12 stocks and 2 years. In this case, when I first wrote the code, I was learning and creating from scratch. Once I started refactoring, I had the structure complete and could focus on making the code more efficient. However, in my case, the code is not running faster and I need to gain more knowledge to explore why that is. 
